@@ -19,11 +19,15 @@ My current focus is building networking tools, strengthening my programming skil
 
 ## About Me
 
-- Networking and Cybersecurity enthusiast
-- Python Developer with an interest in automation and networking tools
-- Web Developer focused on modern and responsive applications
-- Continuously learning new technologies through practical projects
-- Passionate about building clean, scalable, and maintainable software
+Networking and Cybersecurity enthusiast
+
+Python Developer with an interest in automation and networking tools
+
+Web Developer focused on modern and responsive applications
+
+Continuously learning new technologies through practical projects
+
+Passionate about building clean, scalable, and maintainable software
 
 ---
 
@@ -31,28 +35,41 @@ My current focus is building networking tools, strengthening my programming skil
 
 ### Programming Languages
 
-- Python
-- C
-- HTML5
-- CSS3
+Python
+
+C
+
+HTML5
+
+CSS3
 
 ### Tools & Technologies
 
-- Git
-- GitHub
-- Linux
-- VS Code
-- PyInstaller
-- ThreadPoolExecutor
-- Colorama
+Git
+
+GitHub
+
+Linux
+
+VS Code
+
+PyInstaller
+
+ThreadPoolExecutor
+
+Colorama
 
 ### Domains
 
-- Computer Networking
-- Cybersecurity
-- Software Development
-- Web Development
-- Automation
+Computer Networking
+
+Cybersecurity
+
+Software Development
+
+Web Development
+
+Automation
 
 ---
 
@@ -62,17 +79,23 @@ My current focus is building networking tools, strengthening my programming skil
 
 A professional multithreaded network scanner developed in Python.
 
-### Key Features
+Key Features:
 
-- Multithreaded network scanning
-- Hostname detection
-- TXT report generation
-- CSV report generation
-- Professional command-line interface
-- Previous scan report viewer
-- Standalone Windows executable
+Multithreaded network scanning
 
-### Repository
+Hostname detection
+
+TXT report generation
+
+CSV report generation
+
+Professional command-line interface
+
+Previous scan report viewer
+
+Standalone Windows executable
+
+Repository:
 
 https://github.com/YOUR_USERNAME/network-scanner-python
 
@@ -80,23 +103,33 @@ https://github.com/YOUR_USERNAME/network-scanner-python
 
 ## Currently Learning
 
-- Computer Networking (CCNA)
-- Python Development
-- Linux Administration
-- Cybersecurity
-- Git & GitHub
-- Web Development
+Computer Networking (CCNA)
+
+Python Development
+
+Linux Administration
+
+Cybersecurity
+
+Git and GitHub
+
+Web Development
 
 ---
 
 ## Goals for 2026
 
-- Build professional Python applications
-- Develop advanced networking tools
-- Learn penetration testing
-- Strengthen Linux administration skills
-- Contribute to open-source projects
-- Build a strong software engineering portfolio
+Build professional Python applications
+
+Develop advanced networking tools
+
+Learn penetration testing
+
+Strengthen Linux administration skills
+
+Contribute to open-source projects
+
+Build a strong software engineering portfolio
 
 ---
 
@@ -108,11 +141,17 @@ Networking and cybersecurity certifications will be added as they are completed.
 
 ## Contact
 
-Email: harshitpawar3011@gmail.com
+Email:
 
-LinkedIn: https://www.linkedin.com/in/harshitpawar030
+harshitpawar3011@gmail.com
 
-Portfolio: Coming Soon
+LinkedIn:
+
+https://www.linkedin.com/in/harshitpawar030
+
+Portfolio:
+
+Coming Soon
 
 ---
 
