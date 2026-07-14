@@ -7,87 +7,113 @@
   <img src="https://komarev.com/ghpvc/?username=spideypawar&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
-# 👋 Hi, I'm Harshit Pawar
+# Harshit Pawar
 
-## 🌐 Networking Student | Software Developer | Web Developer
+Networking Student | Python Developer | Web Developer | Cybersecurity Enthusiast
 
-I'm passionate about computer networking, cybersecurity, software development, and modern web technologies. I enjoy building practical applications, learning new technologies, and solving real-world problems through code.
-
----
-
-## 🚀 About Me
-
-- 🌐 Passionate about Networking & Cybersecurity
-- 💻 Python Developer
-- 🌍 Web Developer
-- 📚 Currently learning Python, C, Linux, Git, GitHub, CCNA, and Cybersecurity
-- 🎯 Goal: Become a skilled Networking & Cybersecurity Professional while building real-world software projects.
+I am passionate about computer networking, software development, and cybersecurity. I enjoy designing practical applications, solving real-world problems, and continuously expanding my technical knowledge. My current focus is building networking tools, strengthening my programming skills, and developing a strong software engineering portfolio.
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
 
-- 🐍 Python
-- 💻 C
-- 🌐 HTML & CSS
-- 🐧 Linux
-- 🌿 Git & GitHub
-- 🌐 Computer Networking
-- 🛡️ Cybersecurity
+- Networking and Cybersecurity enthusiast
+- Python Developer with an interest in automation and networking tools
+- Web Developer focused on modern and responsive applications
+- Continuously learning new technologies through practical projects
+- Passionate about building clean, scalable, and maintainable software
 
 ---
 
-## 📌 Featured Projects
+## Technical Skills
 
-### 🌐 Network Scanner Pro
+### Programming Languages
 
-A professional multithreaded network scanner built with Python.
+- Python
+- C
+- HTML5
+- CSS3
 
-**Features**
-- ⚡ Fast Multithreaded Network Scanning
-- 🌐 Hostname Detection
-- 📄 TXT Report Generation
-- 📊 CSV Report Generation
-- 🎨 Professional Colorized CLI Interface
-- 💾 View Previous Scan Reports
-- 📦 Windows Executable (.exe)
+### Tools & Technologies
 
-🔗 **Repository:** https://github.com/spideypawar/network-scanner-python
+- Git
+- GitHub
+- Linux
+- VS Code
+- PyInstaller
+- ThreadPoolExecutor
+- Colorama
 
----
+### Domains
 
-## 📚 Currently Learning
-
-- 🌐 Computer Networking (CCNA)
-- 🛡️ Cybersecurity
-- 🐍 Advanced Python
-- 💻 C Programming
-- 🐧 Linux
-- 🌍 Web Development
-
----
-
-## 🎯 2026 Goals
-
-- 🚀 Build 10+ Professional Python Projects
-- 🌐 Master Computer Networking
-- 🛡️ Learn Ethical Hacking & Penetration Testing
-- ☁️ Learn Cloud Technologies
-- 💼 Build a Strong GitHub Portfolio
+- Computer Networking
+- Cybersecurity
+- Software Development
+- Web Development
+- Automation
 
 ---
 
-## 🏆 Certifications
+## Featured Project
 
-> 🚧 Certifications will be added as I complete my learning journey.
+### Network Scanner Pro
+
+A professional multithreaded network scanner developed in Python.
+
+Key Features
+
+- Multithreaded network scanning
+- Hostname detection
+- TXT report generation
+- CSV report generation
+- Professional command-line interface
+- Previous scan report viewer
+- Standalone Windows executable
+
+Repository
+
+https://github.com/YOUR_USERNAME/network-scanner-python
 
 ---
 
-## 📫 Connect With Me
+## Currently Learning
 
-- 📧 Email: *(harshitpawar3011@gmail.com)*
-- 💼 LinkedIn: *(https://www.linkedin.com/in/harshitpawar030?utm_source=share_via&utm_content=profile&utm_medium=member_android)*
+- Computer Networking (CCNA)
+- Python Development
+- Linux Administration
+- Cybersecurity
+- Git & GitHub
+- Web Development
 
 ---
 
-⭐ **"Always Learning. Always Building. Always Improving."**
+## Goals for 2026
+
+- Build professional Python applications
+- Develop advanced networking tools
+- Learn penetration testing
+- Strengthen Linux administration skills
+- Contribute to open-source projects
+- Build a strong software engineering portfolio
+
+---
+
+## Certifications
+
+Networking and cybersecurity certifications will be added as they are completed.
+
+---
+
+## Contact
+
+Email: harshitpawar3011@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/harshitpawar030?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
+Portfolio: Coming Soon
+
+---
+
+## GitHub
+
+This profile showcases my learning journey, projects, and practical implementations in Networking, Software Development, and Cybersecurity. I believe in learning by building and continuously improving through real-world projects.
