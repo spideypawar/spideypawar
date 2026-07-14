@@ -11,7 +11,9 @@
 
 Networking Student | Python Developer | Web Developer | Cybersecurity Enthusiast
 
-I am passionate about computer networking, software development, and cybersecurity. I enjoy designing practical applications, solving real-world problems, and continuously expanding my technical knowledge. My current focus is building networking tools, strengthening my programming skills, and developing a strong software engineering portfolio.
+I am passionate about computer networking, software development, and cybersecurity. I enjoy designing practical applications, solving real-world problems, and continuously expanding my technical knowledge.
+
+My current focus is building networking tools, strengthening my programming skills, and developing a strong software engineering portfolio.
 
 ---
 
@@ -60,7 +62,7 @@ I am passionate about computer networking, software development, and cybersecuri
 
 A professional multithreaded network scanner developed in Python.
 
-Key Features
+### Key Features
 
 - Multithreaded network scanning
 - Hostname detection
@@ -70,7 +72,7 @@ Key Features
 - Previous scan report viewer
 - Standalone Windows executable
 
-Repository
+### Repository
 
 https://github.com/YOUR_USERNAME/network-scanner-python
 
@@ -108,7 +110,7 @@ Networking and cybersecurity certifications will be added as they are completed.
 
 Email: harshitpawar3011@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/harshitpawar030?utm_source=share_via&utm_content=profile&utm_medium=member_android
+LinkedIn: https://www.linkedin.com/in/harshitpawar030
 
 Portfolio: Coming Soon
 
@@ -116,4 +118,6 @@ Portfolio: Coming Soon
 
 ## GitHub
 
-This profile showcases my learning journey, projects, and practical implementations in Networking, Software Development, and Cybersecurity. I believe in learning by building and continuously improving through real-world projects.
+This profile showcases my learning journey, projects, and practical implementations in Networking, Software Development, and Cybersecurity.
+
+I believe in learning by building and continuously improving through real-world projects.
