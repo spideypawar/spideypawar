@@ -7,23 +7,23 @@
   <img src="https://komarev.com/ghpvc/?username=spideypawar&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
-# Hi, I'm Harshit Pawar
+# 👋 Hi, I'm Harshit Pawar
 
-## Networking Student | Software Developer | Web Developer
+## 🌐 Networking Student | Software Developer | Web Developer
 
-I'm passionate about computer networking, software development, and modern web technologies. I enjoy building practical applications, exploring new technologies, and solving real-world problems through code.
+I'm passionate about computer networking, cybersecurity, software development, and modern web technologies. I enjoy building practical applications, learning new technologies, and solving real-world problems through code.
 
-</div>
-
+---
 
 ## 🚀 About Me
 
-- 🌐 Networking is my primary area of interest.
-- 💻 I enjoy developing practical software applications.
-- 🌍 I build modern and responsive web applications.
-- 📚 Currently learning Computer Networking, Python, C, Linux, Git, and GitHub.
-- 🎯 Goal: Build secure, scalable software and modern web applications while growing as a Networking Engineer.
+- 🌐 Passionate about Networking & Cybersecurity
+- 💻 Python Developer
+- 🌍 Web Developer
+- 📚 Currently learning Python, C, Linux, Git, GitHub, CCNA, and Cybersecurity
+- 🎯 Goal: Become a skilled Networking & Cybersecurity Professional while building real-world software projects.
 
+---
 
 ## 🛠️ Tech Stack
 
@@ -45,11 +45,11 @@ I'm passionate about computer networking, software development, and modern web t
 
 <p align="center">
 
-<a href="mailto:YOUR_EMAIL_HERE">
+<a href="mailto:harshitpawar3011@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/harshitpawar030?utm_source=share_via&utm_content=profile&utm_medium=member_android/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>&nbsp;&nbsp;&nbsp;
 
@@ -60,28 +60,50 @@ I'm passionate about computer networking, software development, and modern web t
 
 ## 📌 Featured Projects
 
-> 🚧 Coming Soon – I’m currently building practical networking, software, and web development projects.
+### 🌐 Network Scanner Pro
 
+A professional multithreaded network scanner built with Python.
+
+**Features**
+- ⚡ Fast Multithreaded Network Scanning
+- 🌐 Hostname Detection
+- 📄 TXT Report Generation
+- 📊 CSV Report Generation
+- 🎨 Professional Colorized CLI Interface
+- 💾 View Previous Scan Reports
+- 📦 Windows Executable (.exe)
+
+🔗 **Repository:** https://github.com/spideypawar/network-scanner-python
+
+---
 
 ## 📚 Currently Learning
 
-- 🌐 Computer Networking
-- 🐍 Python
+- 🌐 Computer Networking (CCNA)
+- 🛡️ Cybersecurity
+- 🐍 Advanced Python
 - 💻 C Programming
 - 🐧 Linux
-- 🌿 Git & GitHub
-- 🌍 HTML & CSS
+- 🌍 Web Development
 
+---
+
+## 🎯 2026 Goals
+
+- 🚀 Build 10+ Professional Python Projects
+- 🌐 Master Computer Networking
+- 🛡️ Learn Ethical Hacking & Penetration Testing
+- ☁️ Learn Cloud Technologies
+- 💼 Build a Strong GitHub Portfolio
+
+---
 
 ## 🏆 Certifications
 
 > 🚧 Certifications will be added as I complete my learning journey.
 
+---
 
 ---
 
-<p align="center">
-<i>"Keep Learning. Keep Building. Keep Improving."</i>
-</p>
-
-</p>
+⭐ **"Always Learning. Always Building. Always Improving."**
