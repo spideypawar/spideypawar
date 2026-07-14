@@ -17,11 +17,11 @@ I'm passionate about computer networking, cybersecurity, software development, a
 
 ## 🚀 About Me
 
-- 🌐 Passionate about Networking & Cybersecurity
-- 💻 Python Developer
-- 🌍 Web Developer
-- 📚 Currently learning Python, C, Linux, Git, GitHub, CCNA, and Cybersecurity
-- 🎯 Goal: Become a skilled Networking & Cybersecurity Professional while building real-world software projects.
+🌐 Passionate about Networking & Cybersecurity
+💻 Python Developer
+🌍 Web Developer
+📚 Currently learning Python, C, Linux, Git, GitHub, CCNA, and Cybersecurity
+🎯 Goal: Become a skilled Networking & Cybersecurity Professional while building real-world software projects.
 
 ---
 
@@ -65,13 +65,13 @@ I'm passionate about computer networking, cybersecurity, software development, a
 A professional multithreaded network scanner built with Python.
 
 **Features**
-- ⚡ Fast Multithreaded Network Scanning
-- 🌐 Hostname Detection
-- 📄 TXT Report Generation
-- 📊 CSV Report Generation
-- 🎨 Professional Colorized CLI Interface
-- 💾 View Previous Scan Reports
-- 📦 Windows Executable (.exe)
+⚡ Fast Multithreaded Network Scanning
+🌐 Hostname Detection
+📄 TXT Report Generation
+📊 CSV Report Generation
+🎨 Professional Colorized CLI Interface
+💾 View Previous Scan Reports
+📦 Windows Executable (.exe)
 
 🔗 **Repository:** https://github.com/spideypawar/network-scanner-python
 
@@ -79,28 +79,28 @@ A professional multithreaded network scanner built with Python.
 
 ## 📚 Currently Learning
 
-- 🌐 Computer Networking (CCNA)
-- 🛡️ Cybersecurity
-- 🐍 Advanced Python
-- 💻 C Programming
-- 🐧 Linux
-- 🌍 Web Development
+🌐 Computer Networking (CCNA)
+🛡️ Cybersecurity
+🐍 Advanced Python
+💻 C Programming
+🐧 Linux
+🌍 Web Development
 
 ---
 
 ## 🎯 2026 Goals
 
-- 🚀 Build 10+ Professional Python Projects
-- 🌐 Master Computer Networking
-- 🛡️ Learn Ethical Hacking & Penetration Testing
-- ☁️ Learn Cloud Technologies
-- 💼 Build a Strong GitHub Portfolio
+🚀 Build 10+ Professional Python Projects
+🌐 Master Computer Networking
+🛡️ Learn Ethical Hacking & Penetration Testing
+☁️ Learn Cloud Technologies
+💼 Build a Strong GitHub Portfolio
 
 ---
 
 ## 🏆 Certifications
 
-> 🚧 Certifications will be added as I complete my learning journey.
+🚧 Certifications will be added as I complete my learning journey.
 
 ---
 
