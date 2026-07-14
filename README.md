@@ -9,7 +9,7 @@
 
 # Harshit Pawar
 
-Networking Student | Python Developer | Web Developer | Cybersecurity Enthusiast
+## 🌐 Networking Student | 💻 Python Developer | 🕸️ Web Developer | 🔐 Cybersecurity Enthusiast
 
 I am passionate about computer networking, software development, and cybersecurity. I enjoy designing practical applications, solving real-world problems, and continuously expanding my technical knowledge.
 
@@ -17,145 +17,145 @@ My current focus is building networking tools, strengthening my programming skil
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-Networking and Cybersecurity enthusiast
+🌐 Networking and Cybersecurity enthusiast
 
-Python Developer with an interest in automation and networking tools
+🐍 Python Developer with an interest in automation and networking tools
 
-Web Developer focused on modern and responsive applications
+💻 Web Developer focused on modern and responsive applications
 
-Continuously learning new technologies through practical projects
+📚 Continuously learning new technologies through practical projects
 
-Passionate about building clean, scalable, and maintainable software
-
----
-
-## Technical Skills
-
-### Programming Languages
-
-Python
-
-C
-
-HTML5
-
-CSS3
-
-### Tools & Technologies
-
-Git
-
-GitHub
-
-Linux
-
-VS Code
-
-PyInstaller
-
-ThreadPoolExecutor
-
-Colorama
-
-### Domains
-
-Computer Networking
-
-Cybersecurity
-
-Software Development
-
-Web Development
-
-Automation
+🚀 Passionate about building clean, scalable, and maintainable software
 
 ---
 
-## Featured Project
+## 🛠️ Technical Skills
 
-### Network Scanner Pro
+### 👨‍💻 Programming Languages
+
+🐍 Python
+
+⚙️ C
+
+🌐 HTML5
+
+🎨 CSS3
+
+### 🔧 Tools & Technologies
+
+📌 Git
+
+🐙 GitHub
+
+🐧 Linux
+
+🖥️ VS Code
+
+📦 PyInstaller
+
+⚡ ThreadPoolExecutor
+
+🎨 Colorama
+
+### 🌍 Domains
+
+🌐 Computer Networking
+
+🔐 Cybersecurity
+
+💻 Software Development
+
+🕸️ Web Development
+
+🤖 Automation
+
+---
+
+## 🚀 Featured Project
+
+### 🔍 Network Scanner Pro
 
 A professional multithreaded network scanner developed in Python.
 
-Key Features:
+### ✨ Key Features
 
-Multithreaded network scanning
+⚡ Multithreaded network scanning
 
-Hostname detection
+🔎 Hostname detection
 
-TXT report generation
+📄 TXT report generation
 
-CSV report generation
+📊 CSV report generation
 
-Professional command-line interface
+⌨️ Professional command-line interface
 
-Previous scan report viewer
+📂 Previous scan report viewer
 
-Standalone Windows executable
+🪟 Standalone Windows executable
 
-Repository:
+### 🔗 Repository
 
-https://github.com/YOUR_USERNAME/network-scanner-python
-
----
-
-## Currently Learning
-
-Computer Networking (CCNA)
-
-Python Development
-
-Linux Administration
-
-Cybersecurity
-
-Git and GitHub
-
-Web Development
+https://github.com/spideypawar/network-scanner-python
 
 ---
 
-## Goals for 2026
+## 📚 Currently Learning
 
-Build professional Python applications
+🌐 Computer Networking (CCNA)
 
-Develop advanced networking tools
+🐍 Python Development
 
-Learn penetration testing
+🐧 Linux Administration
 
-Strengthen Linux administration skills
+🔐 Cybersecurity
 
-Contribute to open-source projects
+🐙 Git and GitHub
 
-Build a strong software engineering portfolio
+🕸️ Web Development
 
 ---
 
-## Certifications
+## 🎯 Goals for 2026
+
+🚀 Build professional Python applications
+
+🌐 Develop advanced networking tools
+
+🛡️ Learn penetration testing
+
+🐧 Strengthen Linux administration skills
+
+🤝 Contribute to open-source projects
+
+💼 Build a strong software engineering portfolio
+
+---
+
+## 🏆 Certifications
 
 Networking and cybersecurity certifications will be added as they are completed.
 
 ---
 
-## Contact
+## 📬 Contact
 
-Email:
+📧 Email:
 
 harshitpawar3011@gmail.com
 
-LinkedIn:
+🔗 LinkedIn:
 
 https://www.linkedin.com/in/harshitpawar030
 
-Portfolio:
+🌐 Portfolio:
 
 Coming Soon
 
 ---
 
-## GitHub
+## 🐙 GitHub
 
 This profile showcases my learning journey, projects, and practical implementations in Networking, Software Development, and Cybersecurity.
 
