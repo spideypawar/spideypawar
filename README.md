@@ -11,164 +11,144 @@
 
 <div align="center">
 
+<div align="center">
+
+<div align="center">
+
+<div align="center">
+
 # Harshit Pawar
 
-### Computer Networking Student • Network Automation • Python Development
+### 🌐 Computer Networking • ⚙️ Network Automation • 💻 Python Development
 
-Building reliable networking solutions, automation tools, and modern software through practical projects and continuous learning.
+Building reliable networking tools, automation solutions, and modern software through practical engineering and continuous learning.
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=python,c,linux,git,github,vscode,html,css" />
+<img src="https://skillicons.dev/icons?i=python,c,linux,git,github,vscode,html,css&theme=dark" />
 
 </div>
 
 ---
 
-# About
+## 👨‍💻 About
 
-I am a Computer Networking student with a strong passion for network engineering, network automation, and software development. I enjoy building practical applications that simplify networking tasks while strengthening my understanding of routing, switching, Linux, and modern software engineering.
+I am a Computer Networking student with a strong interest in network engineering, network automation, and software development.
 
-My learning philosophy is simple: understand the technology, build real projects, and continuously improve through hands-on experience.
-
----
-
-# Core Expertise
-
-<table>
-<tr>
-<td width="50%">
-
-### Networking
-
-- IPv4 & IPv6
-- Subnetting
-- Routing Fundamentals
-- Switching Fundamentals
-- VLANs
-- Network Troubleshooting
-- TCP/IP
-- DNS
-- DHCP
-- NAT
-- Network Security Basics
-
-</td>
-
-<td width="50%">
-
-### Software Development
-
-- Python
-- C Programming
-- HTML5
-- CSS3
-- Git
-- GitHub
-- Linux
-- VS Code
-- Network Automation
-
-</td>
-</tr>
-</table>
+I enjoy designing practical networking tools, writing clean and maintainable code, and applying networking concepts to real-world problems. My objective is to build reliable software while developing a strong foundation in enterprise networking, Linux, and modern software engineering.
 
 ---
 
-# Featured Projects
+## 🛠️ Technical Expertise
 
-| Project | Description |
-|----------|-------------|
-| **Network Scanner Pro** | Professional multithreaded network scanner with hostname detection, report generation, previous scan viewer, and standalone executable. |
-| **Port Scanner Pro** | High-performance multithreaded TCP port scanner featuring service detection and TXT, CSV, JSON, and HTML report generation. |
+### 🌐 Networking
+
+IPv4 & IPv6  
+TCP/IP  
+Routing & Switching  
+VLANs  
+Subnetting  
+DHCP  
+DNS  
+NAT  
+Network Troubleshooting
+
+### 💻 Programming
+
+Python  
+C  
+HTML5  
+CSS3
+
+### ⚡ Tools
+
+Linux  
+Git  
+GitHub  
+Visual Studio Code  
+PyInstaller  
+ThreadPoolExecutor
 
 ---
 
-# Current Focus
+## 🚀 Featured Projects
+
+### 🔍 Network Scanner Pro
+
+A professional multithreaded network scanner built with Python for fast and efficient network discovery.
+
+**Highlights**
+
+High-performance multithreaded scanning  
+Automatic hostname detection  
+TXT & CSV report generation  
+Previous scan history  
+Professional command-line interface  
+Standalone Windows executable
+
+**Repository**
 
 ```text
-✓ Cisco CCNA
-
-✓ Enterprise Networking
-
-✓ Routing & Switching
-
-✓ Network Automation using Python
-
-✓ Linux Administration
-
-✓ Software Engineering
-
-✓ Web Development
+github.com/spideypawar/network-scanner-python
 ```
 
 ---
 
-# Technology Stack
+### 🚪 Port Scanner Pro
 
-<div align="center">
+A multithreaded TCP port scanner designed for fast service discovery and professional reporting.
 
-### Languages
+**Highlights**
 
-<img src="https://skillicons.dev/icons?i=python,c,html,css" />
+Multi-threaded TCP scanning  
+Service detection  
+Domain & IP support  
+TXT, CSV, JSON & HTML reports  
+Live scan progress  
+Standalone Windows executable
 
-<br><br>
+**Repository**
 
-### Operating Systems & Tools
-
-<img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
-
-</div>
-
----
-
-# GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=spideypawar&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spideypawar&layout=compact&theme=github_dark&hide_border=true"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=spideypawar&theme=github-dark&hide_border=true"/>
-
-</div>
+```text
+github.com/spideypawar/port-scanner-pro
+```
 
 ---
 
-# 2026 Roadmap
+## 📚 Current Focus
 
-| Objective | Status |
-|------------|--------|
-| Master Cisco CCNA | 🔄 In Progress |
-| Build Professional Networking Utilities | 🔄 In Progress |
-| Advance Python Development | 🔄 In Progress |
-| Learn Linux Administration | 🔄 In Progress |
-| Build Modern Web Applications | 🔄 In Progress |
-| Contribute to Open Source | 🎯 Planned |
+Cisco CCNA  
+Enterprise Networking  
+Network Automation with Python  
+Linux Administration  
+Software Engineering  
+Web Development
 
 ---
 
-# Philosophy
+## 🎯 2026 Goals
 
-> **"Networking is the foundation. Software is the tool. Automation is the future."**
-
-Every repository represents practical learning through real-world implementation. My objective is to build professional networking solutions while continuously improving my software engineering skills.
+Build production-quality networking applications  
+Develop advanced Python automation tools  
+Strengthen Linux system administration skills  
+Learn modern software engineering practices  
+Contribute to open-source networking projects  
+Build a professional software engineering portfolio
 
 ---
 
-# Connect
+## 💡 Philosophy
 
-<div align="center">
+> **"The best way to understand a network is to build the tools that explore it."**
 
-<a href="mailto:harshitpawar3011@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+Every project in this profile represents practical learning, problem-solving, and continuous improvement through real-world software development.
 
-<a href="https://www.linkedin.com/in/harshitpawar030">
-<img src="https://img.shields.io/badge/LinkedIn-Harshit%20Pawar-blue?style=for-the-badge&logo=linkedin">
-</a>
+---
 
-</div>
+## 📬 Connect
+
+**Email**  
+[harshitpawar3011@gmail.com](mailto:harshitpawar3011@gmail.com)
+
+**LinkedIn**  
+https://www.linkedin.com/in/harshitpawar030
