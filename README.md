@@ -9,147 +9,137 @@
 
 # Harshit Pawar
 
-## 🌐 Networking Student | 💻 Python Developer | 🕸️ Web Developer | 🔐 Cybersecurity Enthusiast
+## 🌐 Computer Networking Student | 💻 Python Developer | 🕸️ Web Developer
 
-I am passionate about computer networking, software development, and cybersecurity. I enjoy designing practical applications, solving real-world problems, and continuously expanding my technical knowledge.
+I am passionate about computer networking, software development, and building practical applications that solve real-world problems. I enjoy learning by creating projects, improving my programming skills, and continuously expanding my technical knowledge.
 
-My current focus is building networking tools, strengthening my programming skills, and developing a strong software engineering portfolio.
+My current focus is developing networking tools, strengthening my software engineering skills, and building a professional GitHub portfolio.
 
 ---
 
 ## 👨‍💻 About Me
 
-🌐 Networking and Cybersecurity enthusiast
-
-🐍 Python Developer with an interest in automation and networking tools
-
-💻 Web Developer focused on modern and responsive applications
-
-📚 Continuously learning new technologies through practical projects
-
-🚀 Passionate about building clean, scalable, and maintainable software
+- 🌐 Computer Networking is my primary area of interest.
+- 🐍 Python Developer with an interest in networking tools and automation.
+- 💻 Web Developer focused on modern and responsive applications.
+- 📚 Learning through practical, real-world projects.
+- 🚀 Passionate about building clean, scalable, and maintainable software.
+- 🔍 Building open-source networking utilities to improve my software engineering skills.
 
 ---
 
 ## 🛠️ Technical Skills
 
-### 👨‍💻 Programming Languages
+### Programming Languages
 
-🐍 Python
+- Python
+- C
+- HTML5
+- CSS3
 
-⚙️ C
+### Tools & Technologies
 
-🌐 HTML5
+- Git
+- GitHub
+- Linux
+- Visual Studio Code
+- PyInstaller
+- ThreadPoolExecutor
+- Colorama
 
-🎨 CSS3
+### Domains
 
-### 🔧 Tools & Technologies
-
-📌 Git
-
-🐙 GitHub
-
-🐧 Linux
-
-🖥️ VS Code
-
-📦 PyInstaller
-
-⚡ ThreadPoolExecutor
-
-🎨 Colorama
-
-### 🌍 Domains
-
-🌐 Computer Networking
-
-🔐 Cybersecurity
-
-💻 Software Development
-
-🕸️ Web Development
-
-🤖 Automation
+- Computer Networking
+- Software Development
+- Web Development
+- Automation
 
 ---
 
-## 🚀 Featured Project
+# 🚀 Featured Projects
 
-### 🔍 Network Scanner Pro
+## 🔍 Network Scanner Pro
 
-A professional multithreaded network scanner developed in Python.
+A professional multithreaded network scanner developed using Python.
 
-### ✨ Key Features
+### Features
 
-⚡ Multithreaded network scanning
+- Multithreaded Network Scanning
+- Hostname Detection
+- TXT Report Generation
+- CSV Report Generation
+- Professional Command-Line Interface
+- Previous Scan Report Viewer
+- Standalone Windows Executable
 
-🔎 Hostname detection
-
-📄 TXT report generation
-
-📊 CSV report generation
-
-⌨️ Professional command-line interface
-
-📂 Previous scan report viewer
-
-🪟 Standalone Windows executable
-
-### 🔗 Repository
+**Repository**
 
 https://github.com/spideypawar/network-scanner-python
 
 ---
 
+## 🚪 Port Scanner Pro
+
+A professional multithreaded TCP port scanner built with Python.
+
+### Features
+
+- Multi-threaded TCP Port Scanning
+- Scan Top 100+ Common TCP Ports
+- Service Detection
+- IP Address & Domain Support
+- Live Scan Progress
+- TXT Report Generation
+- CSV Report Generation
+- JSON Report Generation
+- HTML Report Generation
+- Professional Command-Line Interface
+- Standalone Windows Executable
+
+**Repository**
+
+https://github.com/spideypawar/port-scanner-pro
+
+---
+
 ## 📚 Currently Learning
 
-🌐 Computer Networking (CCNA)
-
-🐍 Python Development
-
-🐧 Linux Administration
-
-🔐 Cybersecurity
-
-🐙 Git and GitHub
-
-🕸️ Web Development
+- Computer Networking (CCNA)
+- Python Development
+- Linux Administration
+- Git & GitHub
+- Web Development
 
 ---
 
 ## 🎯 Goals for 2026
 
-🚀 Build professional Python applications
-
-🌐 Develop advanced networking tools
-
-🛡️ Learn penetration testing
-
-🐧 Strengthen Linux administration skills
-
-🤝 Contribute to open-source projects
-
-💼 Build a strong software engineering portfolio
+- Build professional Python applications.
+- Develop advanced networking tools.
+- Strengthen Linux administration skills.
+- Learn modern software engineering practices.
+- Contribute to open-source projects.
+- Build a strong software engineering portfolio.
 
 ---
 
 ## 🏆 Certifications
 
-Networking and cybersecurity certifications will be added as they are completed.
+Professional certifications will be added as I complete my learning journey.
 
 ---
 
 ## 📬 Contact
 
-📧 Email:
+**Email**
 
 harshitpawar3011@gmail.com
 
-🔗 LinkedIn:
+**LinkedIn**
 
 https://www.linkedin.com/in/harshitpawar030
 
-🌐 Portfolio:
+**Portfolio**
 
 Coming Soon
 
@@ -157,6 +147,6 @@ Coming Soon
 
 ## 🐙 GitHub
 
-This profile showcases my learning journey, projects, and practical implementations in Networking, Software Development, and Cybersecurity.
+This profile showcases my learning journey and practical projects in Computer Networking, Software Development, and Web Development.
 
-I believe in learning by building and continuously improving through real-world projects.
+I believe in learning by building. Every project in this profile is created to strengthen my practical understanding of networking, programming, and software engineering while following clean coding practices and professional project structure.
