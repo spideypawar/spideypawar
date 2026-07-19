@@ -9,144 +9,176 @@
 
 # Harshit Pawar
 
-## 🌐 Computer Networking Student | 💻 Python Developer | 🕸️ Web Developer
+<h3 align="left">Computer Networking Student • Python Developer • Web Developer</h3>
 
-I am passionate about computer networking, software development, and building practical applications that solve real-world problems. I enjoy learning by creating projects, improving my programming skills, and continuously expanding my technical knowledge.
+I am a Computer Networking student with a strong interest in software engineering, network automation, and modern web development. I enjoy transforming ideas into practical applications that solve real-world problems while continuously improving my programming, networking, and problem-solving skills.
 
-My current focus is developing networking tools, strengthening my software engineering skills, and building a professional GitHub portfolio.
-
----
-
-## 👨‍💻 About Me
-
-- 🌐 Computer Networking is my primary area of interest.
-- 🐍 Python Developer with an interest in networking tools and automation.
-- 💻 Web Developer focused on modern and responsive applications.
-- 📚 Learning through practical, real-world projects.
-- 🚀 Passionate about building clean, scalable, and maintainable software.
-- 🔍 Building open-source networking utilities to improve my software engineering skills.
+My goal is to build reliable, maintainable, and scalable software while developing a strong foundation in computer networking and open-source development.
 
 ---
 
-## 🛠️ Technical Skills
+## About Me
 
-### Programming Languages
+- 🌐 Specializing in **Computer Networking**
+- 🐍 Building networking and automation tools using **Python**
+- 💻 Developing modern and responsive web applications
+- ⚙️ Passionate about clean architecture and maintainable code
+- 📖 Learning through hands-on projects and continuous experimentation
+- 🚀 Focused on becoming a professional Software Engineer
 
-- Python
-- C
-- HTML5
-- CSS3
+---
 
-### Tools & Technologies
+# Tech Stack
 
-- Git
-- GitHub
-- Linux
-- Visual Studio Code
-- PyInstaller
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,html,css" />
+</p>
+
+### Technologies & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+</p>
+
+### Python Libraries
+
 - ThreadPoolExecutor
 - Colorama
+- PyInstaller
 
-### Domains
+### Areas of Interest
 
 - Computer Networking
 - Software Development
 - Web Development
-- Automation
+- Network Automation
+- Open Source
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
-## 🔍 Network Scanner Pro
+## Network Scanner Pro
 
-A professional multithreaded network scanner developed using Python.
+A professional multithreaded network scanner built with Python for fast and efficient local network discovery.
 
 ### Features
 
 - Multithreaded Network Scanning
-- Hostname Detection
+- Automatic Hostname Detection
 - TXT Report Generation
 - CSV Report Generation
 - Professional Command-Line Interface
 - Previous Scan Report Viewer
 - Standalone Windows Executable
 
-**Repository**
+🔗 **Repository**
 
 https://github.com/spideypawar/network-scanner-python
 
 ---
 
-## 🚪 Port Scanner Pro
+## Port Scanner Pro
 
-A professional multithreaded TCP port scanner built with Python.
+A professional multithreaded TCP port scanner designed for fast and accurate port enumeration.
 
 ### Features
 
-- Multi-threaded TCP Port Scanning
-- Scan Top 100+ Common TCP Ports
-- Service Detection
+- High-Speed Multi-threaded TCP Scanning
+- Top Common Port Detection
+- Service Identification
 - IP Address & Domain Support
 - Live Scan Progress
-- TXT Report Generation
-- CSV Report Generation
-- JSON Report Generation
-- HTML Report Generation
-- Professional Command-Line Interface
+- TXT Reports
+- CSV Reports
+- JSON Reports
+- HTML Reports
+- Professional CLI
 - Standalone Windows Executable
 
-**Repository**
+🔗 **Repository**
 
 https://github.com/spideypawar/port-scanner-pro
 
 ---
 
-## 📚 Currently Learning
+# Currently Learning
 
-- Computer Networking (CCNA)
-- Python Development
+- Cisco CCNA
+- Python Software Development
 - Linux Administration
 - Git & GitHub
-- Web Development
+- HTML & CSS
+- Network Automation
+- Software Engineering Principles
 
 ---
 
-## 🎯 Goals for 2026
+# Goals
 
-- Build professional Python applications.
-- Develop advanced networking tools.
-- Strengthen Linux administration skills.
-- Learn modern software engineering practices.
-- Contribute to open-source projects.
-- Build a strong software engineering portfolio.
-
----
-
-## 🏆 Certifications
-
-Professional certifications will be added as I complete my learning journey.
+- Build production-quality Python applications
+- Develop advanced networking utilities
+- Master Linux administration
+- Learn modern software engineering practices
+- Contribute to open-source projects
+- Build a professional developer portfolio
 
 ---
 
-## 📬 Contact
+# Certifications
 
-**Email**
+Professional certifications will be added as they are earned.
+
+---
+
+# GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=spideypawar&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spideypawar&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=spideypawar&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# Connect With Me
+
+📧 **Email**
 
 harshitpawar3011@gmail.com
 
-**LinkedIn**
+💼 **LinkedIn**
 
 https://www.linkedin.com/in/harshitpawar030
 
-**Portfolio**
+🌐 **Portfolio**
 
 Coming Soon
 
 ---
 
-## 🐙 GitHub
+# Philosophy
 
-This profile showcases my learning journey and practical projects in Computer Networking, Software Development, and Web Development.
+> *"Learning by building."*
 
-I believe in learning by building. Every project in this profile is created to strengthen my practical understanding of networking, programming, and software engineering while following clean coding practices and professional project structure.
+Every repository in this profile represents a step toward becoming a better software engineer. My projects focus on applying networking concepts, writing clean code, solving practical problems, and continuously improving through real-world development.
+
+---
+
+<p align="center">
+
+### Thanks for visiting my profile!
+
+If you find my work interesting, consider giving a ⭐ to the repositories you like.
+
+</p>
