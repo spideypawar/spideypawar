@@ -210,14 +210,6 @@ Every project I build is an opportunity to understand systems more deeply, solve
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=spideypawar&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Harshit Pawar's GitHub Statistics" />
-</p>
-
----
-
 ## 🔥 Contribution Streak
 
 <p align="center">
