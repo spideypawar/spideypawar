@@ -161,13 +161,44 @@ https://github.com/spideypawar/dns-lookup-pro
 
 ---
 
+### 🖥️ Network Device Monitor Pro
+
+A professional Python-based network monitoring tool designed for monitoring multiple network devices and hosts through quick and continuous monitoring modes.
+
+The project focuses on multithreaded monitoring, online and offline detection, response time tracking, configurable monitoring intervals, and automated report generation.
+
+**✨ Key Features**
+
+Multi-host network monitoring
+IP address and hostname validation
+Quick monitoring
+Continuous monitoring
+Configurable monitoring intervals
+Configurable monitoring cycles
+Multithreaded monitoring
+Online / Offline detection
+Response time tracking
+Monitoring summary
+TXT, CSV, and JSON report generation
+Previous reports viewer
+Application logging
+Professional command-line interface
+Standalone Windows executable
+
+**🔗 Repository**
+
+https://github.com/spideypawar/network-device-monitor-pro
+
+---
+
 ## 🔨 Currently Building
 
 🌐 DNS Lookup Pro  
 🔍 Network Scanner Pro  
 🚪 Port Scanner Pro  
+🖥️ Network Device Monitor Pro  
 ⚙️ Python-based Network Automation Tools  
-🛠️ Practical Networking Utilities  
+🛠️ Practical Networking Utilities
 
 ---
 
